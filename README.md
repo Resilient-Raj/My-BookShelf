@@ -112,7 +112,7 @@ The application is fully responsive and works seamlessly on:
 
 ## 👥 Contributors
 
-- [Your Name] - Initial work and maintenance
+- Raj sharma - Initial work and maintenance
 
 ## 📄 License
 
